@@ -41,4 +41,4 @@ This project delivers an in-depth understanding of Great Cabs' operations, enabl
 
 # Project Dashboard
 
-[Link Text] https://app.powerbi.com/groups/me/reports/aa01ad34-e997-4b76-88a6-4ca8a28ec99b?pbi_source=desktop
+[Dashboard](https://app.powerbi.com/groups/me/reports/aa01ad34-e997-4b76-88a6-4ca8a28ec99b?pbi_source=desktop)
