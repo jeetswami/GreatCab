@@ -38,3 +38,7 @@ MySQL: For querying and organizing business data.
 # Conclusion
 This project delivers an in-depth understanding of Great Cabs' operations, enabling the company to make informed decisions to enhance customer satisfaction and achieve growth targets. Through transparent reporting and actionable insights, stakeholders are empowered to optimize strategies and improve overall performance.
 
+
+# Project Dashboard
+
+[Link Text] https://app.powerbi.com/groups/me/reports/aa01ad34-e997-4b76-88a6-4ca8a28ec99b?pbi_source=desktop
