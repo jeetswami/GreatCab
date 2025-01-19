@@ -13,6 +13,7 @@ Great Cabs, a cab service company operating in 10 tier-2 cities in India, seeks 
 
 # Tools and Technologies
 Power BI: For developing dynamic and interactive visualizations.
+
 MySQL: For querying and organizing business data.
 
 # Key Highlights
